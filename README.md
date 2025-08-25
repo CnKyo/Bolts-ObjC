@@ -53,7 +53,7 @@ Every `BFTask` has a method named `continueWithBlock:` which takes a continuatio
   return nil;
 }];
 ```
-@@fyinformation=cc@@
+
 ```swift
 // Swift
 self.saveAsync(obj).continueWithBlock {
